@@ -1,6 +1,6 @@
-Tracker
+CSR Automatic Order Entry
 ==
 
-Material Tracking System for Bel Stewart Connectors. 
+CSR Automatic Order Entry for Bel Stewart Connectors. 
 
-Developed by Daniel Lopez M. (July 2016).
+Developed by Daniel Lopez M. (September 2016).
